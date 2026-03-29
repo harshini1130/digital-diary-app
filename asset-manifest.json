@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-diary-app/static/css/main.6f1c4330.css",
+    "main.js": "/digital-diary-app/static/js/main.0e1ed405.js",
+    "static/js/453.38e36d8c.chunk.js": "/digital-diary-app/static/js/453.38e36d8c.chunk.js",
+    "index.html": "/digital-diary-app/index.html",
+    "main.6f1c4330.css.map": "/digital-diary-app/static/css/main.6f1c4330.css.map",
+    "main.0e1ed405.js.map": "/digital-diary-app/static/js/main.0e1ed405.js.map",
+    "453.38e36d8c.chunk.js.map": "/digital-diary-app/static/js/453.38e36d8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1c4330.css",
+    "static/js/main.0e1ed405.js"
+  ]
+}
